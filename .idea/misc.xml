@@ -5,6 +5,12 @@
       <map>
         <entry key="..\:/Users/hanng/Desktop/MyInstagramClone/app/src/main/res/layout/activity_login.xml" value="0.2907608695652174" />
         <entry key="..\:/Users/hanng/Desktop/MyInstagramClone/app/src/main/res/layout/activity_main.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/hanng/Desktop/codepath/MyInstagramClone/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/hanng/Desktop/codepath/MyInstagramClone/app/src/main/res/layout/fragment_compose.xml" value="0.39375" />
+        <entry key="..\:/Users/hanng/Desktop/codepath/MyInstagramClone/app/src/main/res/layout/fragment_posts.xml" value="0.2953125" />
+        <entry key="..\:/Users/hanng/Desktop/codepath/MyInstagramClone/app/src/main/res/layout/item_post.xml" value="0.265625" />
+        <entry key="..\:/Users/hanng/Desktop/codepath/MyInstagramClone/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.67" />
+        <entry key="..\:/Users/hanng/Desktop/codepath/MyInstagramClone/app/src/main/res/xml/fileprovider.xml" value="0.39375" />
       </map>
     </option>
   </component>
